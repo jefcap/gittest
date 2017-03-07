@@ -1,2 +1,2 @@
 # gittest
-Exercise with git
+Exercise with git. Testing clone, pull, push, cherry-pick, etc.
