@@ -1,0 +1,2 @@
+# gittest
+Exercise with git
